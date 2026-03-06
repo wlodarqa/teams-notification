@@ -1,5 +1,9 @@
 # Teams Notifications from Playwright E2E – Integration Guide
+
+## Passed tests notification
 <img width="937" height="557" alt="2026-03-06_12h39_47" src="https://github.com/user-attachments/assets/bf022dd7-c979-4e90-8846-2e6e8f8f2f97" />
+
+## Failed tests notification
 <img width="688" height="552" alt="2026-03-06_12h40_00" src="https://github.com/user-attachments/assets/036ee6e2-a0bc-4ef4-8088-fc494b8a786c" />
 
 
